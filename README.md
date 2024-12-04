@@ -1,1 +1,1 @@
-# fooxbarber
+# FooxFriseur
